@@ -33,7 +33,18 @@ The report uses a dataset named Data Sales Adidas containing the following field
 ## Dashboard
 <img width="1094" height="636" alt="image" src="https://github.com/user-attachments/assets/b86ce9df-eba3-4c31-a15f-e56ee120d7fc" />
 
-
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to date, type format and values used.
+
+## Key Findings
+- Total Sales: $900M
+- Operating Profit: $332M
+- Operating Margin: 42%
+- Best Sales Months: July ($95M) and August ($92M)
+- Top Region: West ($270M, 30% of total sales)
+- Best-Selling Product: Men's Street Footwear
+- Top Retailer: West Gear
+
+## Final Conclusion: 
+-Adidas demonstrates strong profitability and market performance, with footwear products, the West region, and key retail partners driving revenue growth. Future opportunities lie in expanding lower-performing regions and strengthening underutilized sales channels.
