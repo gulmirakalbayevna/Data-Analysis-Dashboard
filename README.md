@@ -46,5 +46,5 @@ The report uses a dataset named Data Sales Adidas containing the following field
 - Best-Selling Product: Men's Street Footwear
 - Top Retailer: West Gear
 
-## Final Conclusion: 
--Adidas demonstrates strong profitability and market performance, with footwear products, the West region, and key retail partners driving revenue growth. Future opportunities lie in expanding lower-performing regions and strengthening underutilized sales channels.
+## Final Conclusion
+Adidas demonstrates strong profitability and market performance, with footwear products, the West region, and key retail partners driving revenue growth. Future opportunities lie in expanding lower-performing regions and strengthening underutilized sales channels.
