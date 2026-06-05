@@ -31,7 +31,7 @@ The report uses a dataset named Data Sales Adidas containing the following field
 - Dashboard Interaction <a href="https://github.com/gulmirakalbayevna/Data-Analysis-Dashboard/blob/main/adidas%20analysis.pbix">View Dashboard</a>
 
 ## Dashboard
-<img width="1273" height="725" alt="image" src="https://github.com/user-attachments/assets/c5e179df-5412-43f1-b823-bca209a96daa" />
+<img width="1094" height="636" alt="image" src="https://github.com/user-attachments/assets/b86ce9df-eba3-4c31-a15f-e56ee120d7fc" />
 
 
 ## Process
