@@ -31,7 +31,7 @@ The report uses a dataset named Data Sales Adidas containing the following field
 - Dashboard Interaction <a href="https://github.com/gulmirakalbayevna/Data-Analysis-Dashboard/blob/main/adidas%20analysis.pbix">View Dashboard</a>
 
 ## Dashboard
-https://1drv.ms/i/c/fe692e9066865ad1/IQADvbMpHKReQa0CBINJCqB5AVHyJ8YXanKa1a4edcgpWto?e=zkhPNu  
+ 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to date, type format and values used.
